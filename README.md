@@ -6,7 +6,7 @@ Vous devez créer un programme en Java pour gérer une bibliothèque de livres. 
 
 NOUR : **Livre** : Cette classe doit représenter un livre avec des attributs tels que le titre, l'auteur, l'année de publication, le numéro ISBN, et le nombre d'exemplaires disponibles. Assurez-vous de fournir des méthodes pour accéder et modifier ces attributs.
 
-Sabrine : **Bibliothèque** : Cette classe doit représenter la bibliothèque elle-même. Elle devrait contenir une liste de livres disponibles. Vous devrez implémenter des méthodes pour ajouter un livre, emprunter un livre, retourner un livre et afficher la liste des livres disponibles.
+SABRINE : **Bibliothèque** : Cette classe doit représenter la bibliothèque elle-même. Elle devrait contenir une liste de livres disponibles. Vous devrez implémenter des méthodes pour ajouter un livre, emprunter un livre, retourner un livre et afficher la liste des livres disponibles.
 
 SIWAR : **Emprunteur** : Cette classe doit représenter une personne qui emprunte des livres. Elle devrait avoir un nom, un identifiant unique et une liste des livres empruntés.
 
