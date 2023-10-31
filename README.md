@@ -4,7 +4,7 @@
 
 Vous devez créer un programme en Java pour gérer une bibliothèque de livres. Le programme doit inclure six classes différentes :
 
-**Livre** : Cette classe doit représenter un livre avec des attributs tels que le titre, l'auteur, l'année de publication, le numéro ISBN, et le nombre d'exemplaires disponibles. Assurez-vous de fournir des méthodes pour accéder et modifier ces attributs.
+NOUR : **Livre** : Cette classe doit représenter un livre avec des attributs tels que le titre, l'auteur, l'année de publication, le numéro ISBN, et le nombre d'exemplaires disponibles. Assurez-vous de fournir des méthodes pour accéder et modifier ces attributs.
 
 Sabrine : **Bibliothèque** : Cette classe doit représenter la bibliothèque elle-même. Elle devrait contenir une liste de livres disponibles. Vous devrez implémenter des méthodes pour ajouter un livre, emprunter un livre, retourner un livre et afficher la liste des livres disponibles.
 
