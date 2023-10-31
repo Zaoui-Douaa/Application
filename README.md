@@ -12,6 +12,6 @@ Vous devez créer un programme en Java pour gérer une bibliothèque de livres. 
 
 **Employé** : Cette classe représente un employé de la bibliothèque. Elle devrait avoir un nom, un identifiant unique et la capacité d'ajouter des livres à la bibliothèque.
 
-**Auteur** : Cette classe représente un auteur de livres. Elle devrait avoir un nom et une liste des livres qu'il a écrits.
+MAHER : **Auteur** : Cette classe représente un auteur de livres. Elle devrait avoir un nom et une liste des livres qu'il a écrits.
 
-**Main** : Cette classe doit contenir la méthode main et servir de point d'entrée pour le programme. Créez des instances de la bibliothèque, des emprunteurs, des employés et des auteurs, puis effectuez des opérations telles que l'emprunt de livres, le retour de livres et l'ajout de livres à la bibliothèque.
+DOUAA : **Main** : Cette classe doit contenir la méthode main et servir de point d'entrée pour le programme. Créez des instances de la bibliothèque, des emprunteurs, des employés et des auteurs, puis effectuez des opérations telles que l'emprunt de livres, le retour de livres et l'ajout de livres à la bibliothèque.
