@@ -10,7 +10,7 @@ Sabrine : **Bibliothèque** : Cette classe doit représenter la bibliothèque el
 
 SIWAR : **Emprunteur** : Cette classe doit représenter une personne qui emprunte des livres. Elle devrait avoir un nom, un identifiant unique et une liste des livres empruntés.
 
-**Employé** : Cette classe représente un employé de la bibliothèque. Elle devrait avoir un nom, un identifiant unique et la capacité d'ajouter des livres à la bibliothèque.
+AZIZ : **Employé** : Cette classe représente un employé de la bibliothèque. Elle devrait avoir un nom, un identifiant unique et la capacité d'ajouter des livres à la bibliothèque.
 
 MAHER : **Auteur** : Cette classe représente un auteur de livres. Elle devrait avoir un nom et une liste des livres qu'il a écrits.
 
