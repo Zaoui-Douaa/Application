@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class EmployeBibliotheque {
+public class Employe {
     private String nom;
     private int identifiant;
 
