@@ -41,3 +41,19 @@ git tag // marquage
 git tag -a v1.0 -m  "our project pre-evalution"
 
 git push origin v1.0
+
+git log      //génère le log d’une branche
+
+git pull     //récupérer les dernières modifications d'une branche
+
+git diff      //énumérer tous les conflits actuels
+
+git rm readme.txt  // Pour supprimer le fichier readme.txt
+
+git stash      //sauvegarde local sans commit 
+
+git show       //afficher tous les informations de git
+
+git grep "livre"       //permet de rechercher le mot livre dans les arbres  
+
+git gc       //Pour l'optimisation
