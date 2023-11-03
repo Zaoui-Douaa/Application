@@ -42,6 +42,8 @@ git tag -a v1.0 -m  "our project pre-evalution"
 
 git push origin v1.0
 
+git merge master     //fusionner une branche master
+
 git log      //génère le log d’une branche
 
 git pull     //récupérer les dernières modifications d'une branche
