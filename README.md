@@ -19,14 +19,25 @@ Main : Cette classe doit contenir la méthode main et servir de point d'entrée 
 
 
 Les commandes utilisées:
+
 git clone
+
 git checkout -b EmployeBranch
+
 //add files
+
 git add .
+
 git status
+
 git commit -m "intial commit for employe branch"
+
 git remote -v   //connecter à un dépôt distant
+
 git push -u origin EmployeBranch
+
 git tag // marquage
+
 git tag -a v1.0 -m  "our project pre-evalution"
+
 git push origin v1.0
