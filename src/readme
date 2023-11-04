@@ -1,0 +1,11 @@
+  $ git clone
+  $ git pull
+  $ git checkout -b Emprunteur
+  $ git branch
+  $ git status
+  $ git add src/Emprunteur.java
+  $ git commit -m "Create Classe Java Emprunteur"
+  $ git push
+  $ git add src/readme
+  $ git commit -m "readme file for the commands"
+  $ git push
