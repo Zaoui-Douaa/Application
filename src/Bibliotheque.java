@@ -1,7 +1,9 @@
-public class Bibliothèque {
+import java.util.*;
+
+public class Bibliotheque {
     private List<Livre> livresDisponibles;
 
-    public Bibliothèque() {
+    public Bibliotheque() {
         livresDisponibles = new ArrayList<>();
     }
 
