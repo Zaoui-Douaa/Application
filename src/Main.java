@@ -7,23 +7,25 @@ public class Main {
         System.out.println(E1);
         System.out.println(E2);
 
+        Livre L1=new Livre("L1",1,"LIVRE1");
+        Livre L2=new Livre("L1",1,"LIVRE1");
 
-        ///LIVRE 1
-        ///LIVRE 2
 
         Auteur A1=new Auteur("A1");
         System.out.println("Les livres ecrits : "+A1.getLivresEcrits());
-      //  A1.ajouterLivre(LIVRE);
+        A1.ajouterLivre(L1);
+        A1.ajouterLivre(L2);
         System.out.println("Les livres ecrits : "+A1.getLivresEcrits());
 
-        Bibliothèque bibliothèque = new Bibliothèque();
-     //   bibliothèque.ajouterLivre();
-     //   bibliothèque.ajouterLivre();
+        Bibliotheque bibliothèque = new Bibliotheque();
+        bibliothèque.ajouterLivre(L1);
+        bibliothèque.ajouterLivre(L2);
         bibliothèque.afficherLivresDisponibles();
-       // bibliothèque.emprunterLivre();
-        //bibliothèque.retournerLivre();
+        bibliothèque.emprunterLivre(L1);
 
-        ///Emprunteur 1
+        Emprunteur Em1=new Emprunteur("EM1",1);
+        Em1.emprunterLivre(L1);
+        Em1.toString();
 
 
     }

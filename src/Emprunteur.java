@@ -6,7 +6,7 @@ public class Emprunteur {
     private int identifiantUnique;
     private List<Livre> livresEmpruntes;
 
-    public Personne(String nom, int identifiantUnique) {
+    public Emprunteur(String nom, int identifiantUnique) {
         this.nom = nom;
         this.identifiantUnique = identifiantUnique;
         this.livresEmpruntes = new ArrayList<>();
